@@ -1,0 +1,7 @@
+{
+  "name": "Luminary Veo Studio",
+  "description": "A high-end cinematic video generation platform powered by Google Veo models, supporting text-to-video, image-to-video, and advanced multi-reference cinematic creations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
